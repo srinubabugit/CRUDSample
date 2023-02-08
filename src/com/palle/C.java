@@ -1,8 +1,16 @@
 package com.palle;
 
-public class B
+public class C
 {
-  public int i = 200;
+  public int i;
+  
+  public C(int i)
+  {
+	  this.i =i;
+  }
+  
+  
+  
 }
   
   
